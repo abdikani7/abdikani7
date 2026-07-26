@@ -1,70 +1,70 @@
-<h1 align="center">Hi 👋, I'm Abdikani Ahmed</h1>
-<h3 align="center">Computer Science Student | Frontend Developer | Cybersecurity Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdikani7&color=0d9488&style=flat-square" alt="Profile Views" />
-</p>
+# Abdikani Ahmed
 
-<p align="center">
-I'm a Computer Science student passionate about building clean, scalable web applications and exploring cybersecurity and AI. I enjoy turning ideas into real, working products — from portfolio sites to full-stack business platforms.
-</p>
+**Computer Science Student · Frontend Developer · Cybersecurity Enthusiast**
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=abdikani7&color=0d9488&style=flat-square)](https://github.com/abdikani7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdikani-ahmed-112442342)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abdikani_77)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdikaniahmedali04@gmail.com)
 
-### 🏢 About Me
-
-- 🎓 Computer Science student, University of Somalia (UNISO)
-- 📍 Based in Mogadishu, Banadir, Somalia
-- 💻 Focused on **React**, **Tailwind CSS**, and modern frontend development
-- 🔐 Growing interest in **Cybersecurity**
-- 🤖 Exploring **AI / Data Science** and **embedded systems** (Arduino)
-- 🧩 Practicing **Data Structures & Algorithms** on LeetCode
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Computer Science student at the University of Somalia (UNISO), based in Mogadishu, Somalia, with a focus on frontend engineering and a growing specialization in cybersecurity. Experienced in building production-style web applications using React and modern tooling, with additional coursework spanning embedded systems, data structures, and algorithms.
 
----
+Currently expanding into applied cybersecurity practices and foundational machine learning, alongside consistent algorithmic practice on LeetCode.
 
-### 🚀 Featured Projects
+## Core Competencies
 
-- **Personal Portfolio** — React, Tailwind CSS v4, and Vite showcasing my work and skills
-- **AMStech Website** — IT services company site built with React, Tailwind CSS, React Router
-- **Dahabshiil Web Platform** — Multi-section money transfer company site (React, PHP, MySQL)
-- **Banking & Loan Management Dashboard** — React + TypeScript dashboard with reusable component library
+| Area | Details |
+|---|---|
+| **Frontend** | React, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, PHP, MySQL |
+| **Tools** | Git, Figma, VS Code |
+| **Other** | Python, C++, Embedded Systems (Arduino) |
 
----
+## Technology Stack
 
-### 📚 Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-393939?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![PHP](https://img.shields.io/badge/PHP-31648C?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00546B?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 
-Advanced cybersecurity concepts, machine learning fundamentals, and sharpening my algorithmic problem-solving through consistent LeetCode practice.
+## Selected Projects
 
----
+**Personal Portfolio**
+Personal site built with React, Tailwind CSS v4, and Vite; includes custom navigation interactions and responsive layout work.
 
-### 🤝 Let's Collaborate
+**AMStech — IT Services Company Website**
+Multi-page company website (Mogadishu-based IT services) built with React, Tailwind CSS, React Router, and Heroicons.
 
-I'm open to collaborating on:
-- Web development projects (React / frontend-focused)
-- Cybersecurity tools and research
-- AI-driven applications
+**Dahabshiil Web Platform**
+Multi-section website for a money transfer company, built with React, custom CSS, and a PHP/MySQL backend.
 
----
+**Banking & Loan Management Dashboard**
+Internal dashboard application built with React and TypeScript, featuring a shared, reusable component library for forms and data entry.
 
-### 📊 GitHub Statistics
+## Currently Learning
+
+Advanced cybersecurity techniques, applied machine learning fundamentals, and algorithmic problem-solving through structured LeetCode practice.
+
+## Open to Collaboration On
+
+- Frontend/React web development projects
+- Cybersecurity tooling and research
+- AI-driven application prototypes
+
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdikani7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
@@ -72,24 +72,15 @@ I'm open to collaborating on:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdikani7&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdikani7&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
----
+## Contact
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:abdikaniahmedali04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abdikani-ahmed-112442342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/abdikani_77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/abdikani7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- **Email:** [abdikaniahmedali04@gmail.com](mailto:abdikaniahmedali04@gmail.com)
+- **LinkedIn:** [abdikani-ahmed](https://linkedin.com/in/abdikani-ahmed-112442342)
+- **GitHub:** [@abdikani7](https://github.com/abdikani7)
 
 ---
 
-### ⚡ Fun Fact
-
-I once built a mini drone from scratch — blending my love for technology with hands-on engineering. Still one of my favorite builds!
-
-<p align="center"><i>Thanks for stopping by! 🙏</i></p>
+<div align="center"><sub>Thank you for visiting.</sub></div>
