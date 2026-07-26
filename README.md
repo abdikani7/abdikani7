@@ -39,29 +39,33 @@ Currently deepening skills in applied cybersecurity, machine learning fundamenta
 ## Technical Skills
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F0DB4F)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2B5B84?style=flat-square&logo=python&logoColor=FFD43B)
-![PHP](https://img.shields.io/badge/PHP-31648C?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-393939?style=flat-square&logo=nodedotjs&logoColor=339933)
-![MySQL](https://img.shields.io/badge/MySQL-00546B?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 **Other**
-Embedded Systems (Arduino) · Data Structures & Algorithms
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 <br/>
 
@@ -104,6 +108,22 @@ Advanced cybersecurity techniques · Applied machine learning fundamentals · Al
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdikani7&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdikani7&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdikani7&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 <br/>
