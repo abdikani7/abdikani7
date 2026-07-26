@@ -1,26 +1,17 @@
-<h1 align="center">Hi 👋 I'm Abdikani</h1>
+## Profile
 
-<h3 align="center">Computer Science Student • Frontend & Full-Stack Developer • Aspiring Cybersecurity & AI Enthusiast</h3>
+## 👋 About Me
 
+I'm **Abdikani Ahmed Ali**, a Computer Science student at the **University of Somalia (UNISO)**, currently in my 4th semester. I'm passionate about building clean, functional, and user-friendly digital solutions — from web applications to embedded systems.
 
+- 🔭 Currently building websites and working on real-world projects using **React**, **Tailwind CSS**, and modern web tools.
+- 💻 Comfortable across the stack: **JavaScript, React, TypeScript, PHP, Python, MySQL, Node.js**.
+- 🔐 Growing interest in **Cybersecurity** and how to build secure, resilient systems.
+- 🤖 Exploring **AI & Data Science**, alongside hands-on experience with **embedded systems (Arduino/C)**.
+- 🌍 Based in Mogadishu, Somalia — open to both local opportunities and remote/international work.
+- 📚 Actively sharpening my problem-solving skills through **LeetCode** and continuous self-study.
+- 🤝 Always excited to collaborate on projects that solve real problems for people and businesses.
 
----
-
-
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-### 📌 About Me
-
-- 🔭 Currently building my   website (React + Tailwind CSS v4 + Vite)
-- 🌱 Learning DSA/LeetCode, and exploring AI/Data Science & Cybersecurity
-- 💼 Open to frontend, internship, and freelance opportunities (local & remote)
-- ⚙️ Past projects: AMStech IT Services website, Dahabshiil website, Banking/Loan Management Dashboard, Arduino embedded systems
 
 ---
 
