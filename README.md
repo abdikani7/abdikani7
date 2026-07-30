@@ -1,6 +1,6 @@
-## Profile
 
-## 👋 About Me
+
+## 👋 Hi there 
 
 I'm **Abdikani Ahmed Ali**, a Computer Science student at the **University of Somalia (UNISO)**, currently in my 4th semester. I'm passionate about building clean, functional, and user-friendly digital solutions — from web applications to embedded systems.
 
