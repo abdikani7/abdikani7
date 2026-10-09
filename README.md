@@ -2,7 +2,7 @@
 
 ## 
 
-I'm **Abdikani Ahmed Ali**, a Computer Science student at the **University of Somalia (UNISO)**, currently in my 4th semester. I'm passionate about building clean, functional, and user-friendly digital solutions — from web applications to embedded systems.
+Hi **I'm Abdikani Ahmed**, a Computer Science student at the **University of Somalia (UNISO)**, currently in my 4th semester. I'm passionate about building clean, functional, and user-friendly digital solutions — from web applications to embedded systems.
 
 - 🔭 Currently building websites and working on real-world projects using **React**, **Tailwind CSS**, and modern web tools.
 - 💻 Comfortable across the stack: **JavaScript, React, TypeScript, PHP, Python, MySQL, Node.js**.
